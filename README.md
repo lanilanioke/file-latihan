@@ -1,0 +1,2 @@
+# file-latihan
+oke
